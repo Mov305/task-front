@@ -2,7 +2,7 @@
 
 A multi-step bundle builder prototype built with React, TypeScript, Tailwind CSS, and Zustand. Pixel-perfect implementation of the Figma design.
 
-**Live Demo:** [https://task-front-black.vercel.app](https://task-front-black.vercel.app)
+**Live Demo Test:** [https://task-front-black.vercel.app](https://task-front-black.vercel.app)
 
 ## Run Instructions
 
