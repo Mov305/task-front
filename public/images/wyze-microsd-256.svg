@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <!-- SD Card body -->
+  <path d="M72 50 L118 50 L128 60 L128 130 L72 130 Z" fill="#FAFAFA" stroke="#BDBDBD" stroke-width="2"/>
+  <!-- Notch -->
+  <path d="M118 50 L118 60 L128 60" fill="none" stroke="#BDBDBD" stroke-width="1.5"/>
+  <!-- Contact pins -->
+  <rect x="82" y="115" width="4" height="12" rx="1" fill="#FFD54F"/>
+  <rect x="90" y="115" width="4" height="12" rx="1" fill="#FFD54F"/>
+  <rect x="98" y="115" width="4" height="12" rx="1" fill="#FFD54F"/>
+  <rect x="106" y="115" width="4" height="12" rx="1" fill="#FFD54F"/>
+  <rect x="114" y="115" width="4" height="12" rx="1" fill="#FFD54F"/>
+  <!-- Card label area -->
+  <rect x="80" y="60" width="40" height="20" rx="3" fill="#E8E8E8"/>
+  <text x="100" y="74" font-family="system-ui, sans-serif" font-size="9" font-weight="700" fill="#757575" text-anchor="middle">256GB</text>
+  <!-- Speed class icon -->
+  <circle cx="100" cy="95" r="8" fill="none" stroke="#BDBDBD" stroke-width="1"/>
+  <text x="100" y="99" font-family="system-ui, sans-serif" font-size="8" font-weight="600" fill="#9E9E9E" text-anchor="middle">10</text>
+  <!-- Label -->
+  <text x="100" y="152" font-family="system-ui, sans-serif" font-size="10" font-weight="600" fill="#616161" text-anchor="middle">MicroSD Card</text>
+  <text x="100" y="167" font-family="system-ui, sans-serif" font-size="10" fill="#9E9E9E" text-anchor="middle">256GB</text>
+</svg>
